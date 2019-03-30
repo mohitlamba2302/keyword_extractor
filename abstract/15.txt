@@ -1,0 +1,2 @@
+Statistical Machine Learning Used in Integrated Anti-Spam System
+IASS is the integrated anti-spam system, which adopts machine learning to filter spam in a intelligent, flexible, precise, and self-adaptive way. The methods of linear classification based on optimal separating hyperplane and K-means clustering are used in action recognition layer. The method of improved naive Bayes is used in content analysis layer. The application of machine learning helps improve the performance of IASS.

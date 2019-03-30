@@ -1,0 +1,2 @@
+﻿Weighting function in neural network
+The recurrent correlation neural networks have high-capacity associative memory when the weighting function satisfies certain condition. But this always causes the high dynamics in the neural network and the hardware realization is difficult. This paper gives the relationship between the capacity and dynamics and provides a general principle for the choice of the weighting function and give a kind of weighting function. It has high-capacity and avoids the high dynamics. Finally, the simulated results are given.

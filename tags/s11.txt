@@ -1,0 +1,2 @@
+﻿Support vector machines,Support vector machine classification,Pattern recognition,Machine learning,Large-scale systems,Risk management,Space technology,Training data,History,Testing,support vector machines,learning (artificial intelligence),pattern classification,computational complexity,incremental supprot vector machine,recombining method,pattern recognition,incremental learning,data distribution,history training dataset,classifier training,parallel structure,computation complexity,
+Support Vector Machine,Incremental learning,dataset recombining,data distribution

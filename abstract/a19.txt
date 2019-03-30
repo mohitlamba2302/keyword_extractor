@@ -1,0 +1,2 @@
+﻿Artificial neural networks for diagnosis of hepatitis disease
+Recently, neural networks have become a very important method in the field of medical diagnostics. The objective of this work is to diagnose hepatitis disease by using different neural network architectures. Standard feedforward networks and a hybrid network were investigated. Results obtained show that especially the hybrid network can be successfully used for diagnosing of hepatitis.

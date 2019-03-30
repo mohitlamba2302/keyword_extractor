@@ -1,0 +1,2 @@
+﻿Chinese New Words Extraction Based on Machine Learning Approach
+Chinese new words extraction is an important problem for Chinese information processing. In this paper a new words extraction method based on machine learning is proposed, where the context information, the word construction rules and statistic information are combined to extract new words. An experiment, based on two-character-nouns, shows that this method can well improve the efficiency and accuracy of extracting new words

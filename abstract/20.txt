@@ -1,0 +1,2 @@
+A survey on active learning strategy
+Active learning is a hot topic in machine learning field. The main task of active learning is to automatically select the representative instances for efficiently reducing the sample complexity. This paper presents a brief survey of active learning regarding selection methods, query strategies, applications and other related works.

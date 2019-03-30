@@ -1,0 +1,2 @@
+﻿Deep Belief Networks and deep learning
+Deep Belief Network is an algorithm among deep learning. It is an effective method of solving the problems from neural network with deep layers, such as low velocity and the overfitting phenomenon in learning. In this paper, we will introduce how to process a Deep Belief Network by using Restricted Boltzmann Machines. What is more, we will combine the Deep Belief Network together with softmax classifier, and use it in the recognition of handwritten numbers.

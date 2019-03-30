@@ -1,0 +1,2 @@
+Design of a scalable data stream channel for big data processing
+This paper outlines big data infrastructure for processing data streams. Our project is distributed stream computing platform that provides cost-effective and large-scale big data services by developing data stream management system. This research contributes to advancing feasibility of big data processing for distributed, real-time computation even when they are overloaded.

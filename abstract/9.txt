@@ -1,0 +1,2 @@
+Apply Support Vector Machine for CRM Problem
+Data mining in the CRM aiming at learning available knowledge from the customer relationship by machine learning or statistical method to instruct the strategic behavior so that obtain the most profit. In recent years, Support vector machine (SVMs) has been proposed as a power tool in machine leaning and data mining. This paper applies the SVMs to resolve the practical CRM problem in a company. The final results report the good general performance of SVMs for CRM problem.

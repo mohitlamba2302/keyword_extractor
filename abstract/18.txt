@@ -1,0 +1,2 @@
+A New Fuzzy Multicategory Support Vector Machines Classifier
+This paper proposes a new fuzzy multicategory support vector machines (FMSVM) classifier. The main idea is that the proposed FMSVM uses knowledge of the ambiguity associated with the membership of samples for a given class and the relative location of samples to the origin. Compared with the existing SVMs, the new proposed FMSVM that uses the L2-norm in the objective function has the improvement in aspects of classification accuracy and reducing the effects of noises and outliers.

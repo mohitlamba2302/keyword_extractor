@@ -1,0 +1,2 @@
+﻿Hybrid Machine Learning Approach in Data Mining
+In this paper we discuss various machine learning approaches used in mining of data. Further we distinguish between symbolic and sub-symbolic data mining methods. We also attempt to propose a hybrid method with the combination of Artificial Neural Network (ANN) and Cased Based Reasoning (CBR) in mining of data.

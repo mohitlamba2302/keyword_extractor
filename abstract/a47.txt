@@ -1,0 +1,2 @@
+﻿Preview on structures and algorithms of deep learning
+Deep learning proposed by Hinton et al is a new learning algorithm of multi-layer neural network, and it is also a new study field in machine learning. This paper describes the structures and advantages to shallow learning of deep learning, and analyzes current popular learning algorithm in detail. Finally, this paper analyzes research directions and future prospects of deep learning.

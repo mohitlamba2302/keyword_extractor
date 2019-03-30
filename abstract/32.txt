@@ -1,0 +1,2 @@
+Gradient-based signatures for big multimedia data
+With the continuous increase of heterogeneous multimedia data, the question of how to access big multimedia data efficiently has become of crucial importance. In order to provide fast access to complex multimedia data, we propose to approximate content-based features of multimedia objects by means of generative models. The proposed gradient-based signatures epitomize a high quality content-based approximation of multimedia objects and facilitate efficient indexing and query processing at large scale.

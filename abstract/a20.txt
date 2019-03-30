@@ -1,0 +1,2 @@
+﻿Routing in Optical Networks by Using Neural Network
+Routing in optical, especially wavelength division multiplexing networks, is very hard task. This paper defines a new routing algorithm, based on Hopfield neural network. It is improvement of previous research, now applied to optical communications

@@ -1,0 +1,1 @@
+﻿Accuracy,Machine learning,Inspection,Training,Cybernetics,Assembly,Indexes,learning (artificial intelligence),pattern classification,parallel classifiers ensemble,hierarchical machine learning,imbalanced distributions,machine vision quality inspection,Pattern recognition,Imbalanced classes,Hierarchical machine learning,Parallel processing,ROC

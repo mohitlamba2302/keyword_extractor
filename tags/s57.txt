@@ -1,0 +1,1 @@
+﻿Games,Learning (artificial intelligence),Training,Visualization,Machine learning,Convolution,computer games,learning (artificial intelligence),deep Q-learning,redundant outputs,Visual Doom AI game,game AI domain,deep reinforcement learning,game AI communities,training progress,deep reinforcement learning,reinforcement learning,vizdoom,first-person perspective game

@@ -1,0 +1,2 @@
+﻿Neural network hardware
+Summary form only given, as follows. The author describes recent advances in the hardware implementation of neural networks, and gives his expectations for the future in this aspect of neural network technology.<>

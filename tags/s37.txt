@@ -1,0 +1,1 @@
+﻿Machine learning,Proposals,Visualization,Feature extraction,Noise measurement,Neural networks,Supervised learning,image classification,learning (artificial intelligence),deep multiple instance learning,MIL,image classification,image annotation,supervised deep learning framework

@@ -1,0 +1,2 @@
+﻿A hybrid neural network using fuzzy reference points as hidden units
+In this paper, a hybrid multilayer feedforward neural network in which hidden units are defined as fuzzy reference points, and a general feedback learning method are presented. This model has been used in a DSS. Results of an experiment on process identification are given. The proposed model is able to overcome some limitations of conventional multilayer feedforward neural networks applied in expert systems.

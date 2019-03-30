@@ -1,0 +1,2 @@
+﻿Digital architecture for neural networks
+Discussing a new architecture for high performance computers based on transputers and dedicated VLSI. The author proposes a new general purpose custom-made digital neurochip for flexible implementation multilayer neural networks with programmable bits weights and inputs signals. The neuroTRAM consists of transputers, memory and neurochips for neurocomputer implementation.

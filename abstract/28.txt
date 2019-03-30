@@ -1,0 +1,2 @@
+A timeline visualization system for road traffic big data
+The rapid converging of big data and IoT (Internet of Things) technologies provides more opportunities in the area of road traffic applications. In this paper, we discuss a timeline visualization tool which enables us to better understand of traffic behaviors from road traffic big data.

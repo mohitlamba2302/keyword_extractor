@@ -1,0 +1,2 @@
+Data confidentiality challenges in big data applications
+In this paper, we address the problem of data confidentiality in big data analytics. In many fields, much useful patterns can be extracted by applying machine learning techniques to big data. However, data confidentiality must be protected. In many scenarios, data confidentiality could well be a prerequisite for data to be shared. We present a scheme to provide provable secure data confidentiality and discuss various techniques to optimize performance of such a system.
